@@ -16,7 +16,7 @@
 
 <br />
 
-## 🔷 Analysis of the efficiency of the algorithm and its convergence based on the work performed.
+## 🔷 Analysis of the efficiency of the algorithm and its convergence based on the work performed
 
 <br />
 

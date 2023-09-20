@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  background-color: rgba(66, 67, 67, 1);
+}
+
+.app {
+    /* height: 1440px; */
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    background-color: rgba(66, 67, 67, 1);
+}
+
+/* .slider-container {
+    margin-left: 100px;
+    margin-top: 100px;
+    width: 20%;
+    justify-content: center;
+} */

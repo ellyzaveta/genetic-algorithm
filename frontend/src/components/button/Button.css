@@ -1,0 +1,13 @@
+button {
+    padding: 12px 0 12px 0;
+    border: 0;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    border-radius: 10px;
+    width: 100%;
+    cursor: pointer;
+}
+      

@@ -8,7 +8,7 @@
 
 <br />
 
-## 🔷 Implementation of the genetic algorithm for finding the shortest path between cities according to the option.
+## 🔷 Implementation of the genetic algorithm for finding the shortest path between cities
 
 <br />
 
